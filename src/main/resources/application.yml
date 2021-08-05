@@ -1,5 +1,5 @@
 awsS3:
     accessKey: ****************
-    secretKey: *********************8
+    secretKey: **********************
     bucketName: **********
-    region: ************s
+    region: *************
